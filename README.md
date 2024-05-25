@@ -1,17 +1,17 @@
 <div align="center">
-  <h1>Fit-Market</h1>
+  <h1>ShopIQ</h1>
 </div>
 
-## What is Fit-Market?
+## What is ShopIQ?
 
-Fit-Market is not just an online marketplace; it's a destination where you can discover, explore, and indulge in the latest trends and essential assets. We are committed to revolutionizing your shopping experience by combining convenience and quality in one platform.
+ShopIQ is not just an online marketplace; it's a destination where you can discover, explore, and indulge in the latest trends and essential assets. We are committed to revolutionizing your shopping experience by combining convenience and quality in one platform.
 
 ## What does it do?
 
 <ul>
 
 <li>
-Fit-Market is an online marketplace that offers a wide range of products, including clothing and valuable assets. We provide a user-friendly platform for customers to browse and purchase high-quality items from renowned brands. With secure payment options and prompt delivery services, Fit-Market ensures a convenient and reliable shopping experience. Our commitment to quality and customer satisfaction sets us apart as your ultimate online shopping destination.
+ShopIQ is an online marketplace that offers a wide range of products, including clothing and valuable assets. We provide a user-friendly platform for customers to browse and purchase high-quality items from renowned brands. With secure payment options and prompt delivery services, ShopIQ ensures a convenient and reliable shopping experience. Our commitment to quality and customer satisfaction sets us apart as your ultimate online shopping destination.
 
 </ul>
 
@@ -25,19 +25,19 @@ Fit-Market is an online marketplace that offers a wide range of products, includ
 3. Open the folder containing the cloned repository
 
 4.Download dependencies
-Go inside ./Fit-Market/
+Go inside ./ShopIQ/
 
 ```sh
 Run npm install 
 ```
 
-Go inside Fit-Market/frontend
+Go inside ShopIQ/frontend
 
 ```sh
 Run npm install
 ```
 
-To start the project on localhost Go inside ./Fit-Market/
+To start the project on localhost Go inside ./ShopIQ/
 
 ```sh
 Run nodemon
